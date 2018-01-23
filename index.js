@@ -2,7 +2,7 @@
 // @name         Better Spring Document Catelog
 // @name:zh-CN   Spring 技术文档目录优化
 // @namespace    https://github.com/kyyblabla/BetterSpringDocCatalog
-// @version      0.1.3
+// @version      0.1.4
 // @description  Better Spring Document Catelog 1.Add left sidebar nav 2.images css:max-width:100%
   // @description:zh-CN  Spring 文档目录优化。优化点:1.在文档左侧添加章节导航列表 2.图片css:max-width:100%
 // @author       kyyblabla
